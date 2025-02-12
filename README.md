@@ -1,5 +1,9 @@
 # Enhancing Credit Card Fraud Detection Using Machine Learning: A Comparative Analysis of SVM and MLP
 
+Writers:
+- Jonathan David
+- Vira Jessica
+
 Card fraud leads to substantial financial losses, making accurate detection crucial. This study analyzes a Kaggle dataset of 284,807 European credit card transactions from 2013 to compare Support Vector Machine (SVM) and Multilayer Perceptron (MLP) models for fraud detection. A sensitivity analysis is conducted to assess financial impacts, highlighting the importance of precise fraud detection in minimizing economic losses.
 
 Our data preprocessing involved several key steps to ensure model effectiveness. The dataset, already preprocessed with PCA and label encoding (0 for non-fraud, 1 for fraud), was first checked for null and duplicate values. We then applied undersampling to balance the class distribution and split the data into training and testing sets.
